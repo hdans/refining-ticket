@@ -1,8 +1,8 @@
 # Dataset and generated outputs
-outputs/
-test/
-train/
-validation/
+# outputs/
+# test/
+# train/
+# validation/
 
 # Python cache and bytecode
 __pycache__/
